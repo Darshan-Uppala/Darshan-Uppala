@@ -17,7 +17,7 @@
 <a href="mailto:darshansaireddy.uppala@outlook.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Darshan-Uppala">
   <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -34,7 +34,7 @@
 ## 👨‍💻 Profile
 
 <img
-  src="https://github.com/YOUR_GITHUB_USERNAME.png"
+  src="https://github.com/Darshan-Uppala.png"
   width="180"
   alt="Darshan Sai Reddy Uppala"
 />
@@ -82,7 +82,7 @@ I am transitioning into **GenAI / AI Engineering** by building practical AI appl
   <img src="https://skillicons.dev/icons?i=gmail" width="52" alt="Email"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Darshan-Uppala">
   <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/>
 </a>
 
@@ -266,7 +266,7 @@ Transforms natural-language requirements into structured and validated software 
 
 `Python` `Streamlit` `Ollama` `Llama 3.2` `Pydantic`
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/ai-requirement-test-case-generator">
+<a href="https://github.com/Darshan-Uppala/ai-requirement-test-case-generator">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -422,7 +422,7 @@ Agentic workflow for research, planning, execution and review.
   <img src="https://skillicons.dev/icons?i=gmail" width="58" alt="Email"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Darshan-Uppala">
   <img src="https://skillicons.dev/icons?i=github" width="58" alt="GitHub"/>
 </a>
 
