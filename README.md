@@ -1,135 +1,232 @@
 <h1 align="center">Hi 👋, I'm Darshan Sai Reddy Uppala</h1>
 
 <h3 align="center">
-Automation Test Engineer transitioning into GenAI & Agentic AI Engineering
+Automation Test Engineer • Transitioning into GenAI / AI Engineering
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/darshansaireddyuppala/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+Building production-ready AI applications with Python, LLMs, RAG, and Agentic AI.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **production-style GenAI applications**
-- 🌱 Learning **LLMs, RAG, LangChain, LangGraph, MCP and AI Agents**
-- 🧪 Experienced in **QA Automation and Software Testing**
-- 🐍 Comfortable with **Python and SQL**
-- ☁️ Exploring **FastAPI, Docker and AWS deployment**
-- 🎯 Goal: Become a **GenAI / Agentic AI Engineer**
+I'm a Software Engineer with a background in **QA Automation** and a strong passion for building intelligent software.
+
+My journey started with software testing, automation frameworks, and quality engineering. Today, I'm expanding that foundation into **Generative AI and AI Engineering**, building practical applications powered by Large Language Models.
+
+I enjoy solving real-world engineering problems using AI while following software engineering best practices.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Currently Working On
 
-### AI Requirement & Test Case Generator
-
-An AI-powered application that converts software requirements into structured and validated test cases using a local LLM.
-
-**Key features:**
-
-- Local LLM integration using Ollama
-- Structured output generation
-- Pydantic schema validation
-- Streamlit interface
-- Functional, negative, boundary and security test cases
-- Exception handling
-- Export functionality coming soon
-
-**Tech stack:**
-
-`Python` `Streamlit` `Ollama` `Llama 3.2` `Pydantic`
-
-[View Repository](YOUR_REPOSITORY_LINK)
+- 🤖 Production-ready GenAI Applications
+- 🧠 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain & LangGraph
+- 🛠️ AI Agents & Agentic Workflows
+- ⚡ FastAPI & Docker
+- ☁️ AWS Deployment
 
 ---
 
-## 🛠️ Technology Stack
+## 🧪 My Tech Stack
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,sql" />
-</p>
-
-### GenAI and Backend
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,aws,git,github" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
 </p>
 
-### Current Learning
+### AI & GenAI
 
-- Large Language Models
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Large Language Models (LLMs)
 - Prompt Engineering
-- Retrieval-Augmented Generation
+- Ollama
+- OpenAI APIs
+- Pydantic AI
 - LangChain
 - LangGraph
-- Model Context Protocol
-- Agentic AI
-- Vector databases
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MCP (Learning)
 
 ---
 
-## 📌 Current Projects
+### Testing & Automation
 
-| Project | Description | Status |
-|---|---|---|
-| AI Requirement & Test Case Generator | Generate structured QA test cases using a local LLM | In progress |
-| PDF RAG Assistant | Ask questions from uploaded documents | Planned |
-| AI SQL Assistant | Generate and explain SQL queries | Planned |
-| Multi-Agent Research Assistant | Agent-based research workflow | Planned |
-| FastAPI AI Service | Deploy LLM functionality as an API | Planned |
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"
-  />
-
-  <img
-    width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true"
-  />
+<p>
+<img src="https://skillicons.dev/icons?i=selenium" />
 </p>
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"
-  />
-</p>
+- Selenium
+- Playwright
+- Cypress
+- Robot Framework
+- API Testing
+- Postman
+- REST Assured
+- TestNG
+- JUnit
+- Pytest
+- Cucumber
+- BDD
+- QA Automation Framework Design
 
 ---
 
-## 🧭 GenAI Engineering Roadmap
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+- FastAPI
+- REST APIs
+- Microservices
+- Authentication
+- JSON
+- Async Programming
+
+---
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQL
+
+---
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
+
+- AWS
+- Docker
+- Git
+- GitHub
+- Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Requirement & Test Case Generator
+
+Generate structured software test cases from natural language requirements using:
+
+- Local LLMs (Ollama)
+- Pydantic Validation
+- Streamlit
+- Structured Outputs
+- Prompt Engineering
+
+---
+
+### 📄 Upcoming Projects
+
+- PDF RAG Assistant
+- AI SQL Assistant
+- Multi-Agent Research Assistant
+- MCP AI Assistant
+- FastAPI AI Backend
+- Dockerized AI Services
+
+---
+
+## 📈 Current Learning Roadmap
 
 ```text
-Python & Software Engineering
-            ↓
-LLMs & Prompt Engineering
-            ↓
-Structured Outputs & APIs
-            ↓
-Embeddings & Vector Databases
-            ↓
-RAG Applications
-            ↓
-LangChain & LangGraph
-            ↓
-MCP & Tool Calling
-            ↓
-Agentic AI Systems
-            ↓
-FastAPI, Docker & AWS
+Software Engineering
+        │
+        ▼
+Python
+        │
+        ▼
+LLMs
+        │
+        ▼
+Prompt Engineering
+        │
+        ▼
+Structured Outputs
+        │
+        ▼
+Embeddings
+        │
+        ▼
+Vector Databases
+        │
+        ▼
+RAG
+        │
+        ▼
+LangChain
+        │
+        ▼
+LangGraph
+        │
+        ▼
+MCP
+        │
+        ▼
+AI Agents
+        │
+        ▼
+Production AI Systems
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/darshansaireddyuppala/
+
+💻 GitHub
+
+https://github.com/YOUR_USERNAME
+
+---
+
+<h3 align="center">
+
+Building practical AI applications while transitioning from QA Automation to GenAI Engineering 🚀
+
+</h3>
