@@ -73,19 +73,13 @@ An agentic workflow for research, planning, execution, and review — specialize
 
 `AWS Certified Cloud Practitioner` `Anthropic Claude 101` `IBM AI Fundamentals` `Google Intro to Generative AI`
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Darshan-Uppala&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan-Uppala&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
-
 ---
 
 <div align="center">
 
-[LinkedIn](https://www.linkedin.com/in/darshansaireddyuppala/) · [Email](mailto:darshansaireddy.uppala@outlook.com) · [Portfolio](https://darshan-uppala.github.io/) · [GitHub](https://github.com/Darshan-Uppala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshansaireddyuppala/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshansaireddy.uppala@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://darshan-uppala.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Darshan-Uppala)
 
 </div>
