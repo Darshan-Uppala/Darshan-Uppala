@@ -1,446 +1,132 @@
+
+
+Readme · MD
 <div align="center">
-
-👋 Hi, I'm Darshan Sai Reddy Uppala
-
-🚀 Automation Test Engineer → Transitioning into GenAI / AI Engineering
-
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00E7FF&center=true&vCenter=true&width=950&lines=Building+Reliable+Automation+Frameworks;Creating+Production-Ready+GenAI+Applications;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;QA+Automation+%2B+Artificial+Intelligence"
-alt="Typing introduction"
-/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/darshansaireddyuppala/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:darshansaireddy.uppala@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Darshan-Uppala">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+# Darshan Sai Reddy Uppala
+ 
+**Automation Test Engineer → GenAI / AI Engineer**
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshansaireddyuppala/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshansaireddy.uppala@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Darshan-Uppala)
+ 
 </div>
-
-<table>
-<tr>
-<td width="32%" valign="top">
-
+---
+ 
+## About Me
+ 
+Automation Test Engineer with **3+ years** building scalable frameworks for web, API, mobile, and enterprise applications — now transitioning into GenAI and AI Engineering.
+ 
+I build practical AI applications using Python, local and hosted LLMs, RAG pipelines, structured outputs, and AI agents with a focus on production-ready architecture.
+ 
+---
+ 
+## Key Numbers
+ 
+| 400+ | 2,000+ | 60% → 85% | 10 |
+|:---:|:---:|:---:|:---:|
+| API Tests Automated | Regression Tests Executed | Regression Pass Rate | QA Engineers Mentored |
+ 
+---
+ 
+## What I Build
+ 
+- **Automation Frameworks** — Web, API, mobile, and enterprise apps using Page Object Model and clean architecture
+- **GenAI Applications** — LLM-powered tools with structured outputs, RAG, and prompt engineering
+- **AI Agents** — Agentic workflows using LangGraph, tool calling, and MCP integrations
+- **CI/CD Pipelines** — Automated test execution integrated with Jenkins and GitHub Actions
+- **AI-Assisted QA Workflows** — Claude Code skills and MCP-based tools for developer productivity
+---
+ 
+## Featured Projects
+ 
+### 🧪 [AI Requirement & Test Case Generator](https://github.com/Darshan-Uppala/ai-requirement-test-case-generator)
+Transforms natural-language requirements into validated, structured test cases.
+ 
+- Local LLM inference via **Ollama (Llama 3.2)**
+- **Pydantic** schema validation with structured JSON outputs
+- Covers functional, negative, boundary, and security scenarios
+- **Streamlit** interface with export-ready architecture
+`Python` `Streamlit` `Ollama` `Llama 3.2` `Pydantic`
+ 
+---
+ 
+### 📚 [Local RAG Assistant](https://github.com/Darshan-Uppala/local-rag-streamlit)
+Fully local knowledge-base assistant that answers questions grounded in business documents.
+ 
+- Recursive document chunking with overlap
+- Local embeddings via **nomic-embed-text**
+- Persistent vector storage with **ChromaDB**
+- MMR retrieval for relevant, diverse context
+- Retrieved source visibility in the UI
+`Python` `LangChain` `Ollama` `ChromaDB` `Streamlit`
+ 
+---
+ 
+### 🧠 Claude Code Engineering Skills
+AI-assisted engineering tools for developer and QA workflows.
+ 
+- `init-ai-context` for automated AI project setup
+- PR review skill for faster code reviews
+- Bug review skill using MCP and product documentation
+- Skill-creator workflow with evaluation and iteration
+`Claude Code` `MCP` `Prompt Engineering`
+ 
+---
+ 
+### 🤝 Multi-Agent AI Assistant *(Planned)*
+Agentic workflow for research, planning, execution, and review using LangGraph orchestration, shared state, tool calling, and human-in-the-loop checkpoints.
+ 
+---
+ 
+## Tech Stack
+ 
+**Languages**
+`Python` `Java` `C#` `JavaScript` `TypeScript` `SQL`
+ 
+**Testing & Automation**
+`Selenium` `Playwright` `Cypress` `Appium` `Robot Framework` `REST Assured` `TestNG` `NUnit` `PyTest` `Cucumber` `SpecFlow` `Postman`
+ 
+**AI / GenAI**
+`LLMs` `Prompt Engineering` `Ollama` `OpenAI APIs` `LangChain` `LangGraph` `RAG` `AI Agents` `MCP` `Pydantic`
+ 
+**Backend & Databases**
+`FastAPI` `Node.js` `.NET` `SQL Server` `MySQL` `PostgreSQL` `MongoDB` `Redis`
+ 
+**Cloud & DevOps**
+`AWS` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Git` `Linux` `Jira`
+ 
+---
+ 
+## Certifications
+ 
+- 🟠 **AWS Certified Cloud Practitioner**
+- 🔵 **Google — Introduction to Generative AI**
+- 🟤 **Anthropic — Claude 101**
+- 🔵 **IBM — AI Fundamentals**
+---
+ 
+## Current Focus
+ 
+| Building | Learning | Engineering |
+|---|---|---|
+| AI test case generator | LangChain & LangGraph | FastAPI & Docker |
+| Local RAG apps | MCP & vector databases | AWS deployment |
+| Agentic workflows | AI evaluation & guardrails | CI/CD for AI systems |
+ 
+---
+ 
+## Roadmap
+ 
+```
+QA Automation → Python → LLMs → Structured Outputs → RAG → AI Agents → Production AI
+```
+ 
+---
+ 
 <div align="center">
-
-👨‍💻 Profile
-
-<img
-src="https://github.com/Darshan-Uppala.png"
-width="180"
-alt="Darshan Sai Reddy Uppala"
-/>
-
-Darshan Sai Reddy Uppala
-
-Automation Test Engineer
-
-<img src="https://img.shields.io/badge/Transitioning_to-GenAI_%2F_AI_Engineering-7C3AED?style=for-the-badge" alt="Transitioning to GenAI"/>
-
+*Building reliable software through automation today — building intelligent systems with AI tomorrow.*
+ 
 </div>
+ 
 
-🌟 About Me
-
-Automation Test Engineer with 3+ years of experience building scalable automation frameworks for web, API, mobile, tablet and enterprise applications.
-
-I am transitioning into GenAI / AI Engineering by building practical AI applications with Python, local and hosted LLMs, structured outputs, RAG, AI agents and production-oriented backend technologies.
-
-⚡ Quick Profile
-
-🧪 Automation framework design
-
-🌐 Web, API and mobile testing
-
-🤖 AI-assisted development
-
-🧠 LLM application development
-
-🔄 CI/CD integration
-
-☁️ AWS Certified Cloud Practitioner
-
-👥 QA mentoring and collaboration
-
-📈 Continuous learning and delivery
-
-🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/darshansaireddyuppala/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:darshansaireddy.uppala@outlook.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="52" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Darshan-Uppala">
-  <img src="https://skillicons.dev/icons?i=github" width="52" alt="GitHub"/>
-</a>
-
-</div>
-
-🎯 Current Mission
-
-Quality Engineering
-        +
-Generative AI
-        ↓
-Reliable Intelligent Systems
-
-</td>
-
-<td width="68%" valign="top">
-
-🚀 Professional Highlights
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-400+
-
-API Tests Automated
-
-</td>
-<td align="center" width="20%">
-
-2,000+
-
-Regression Tests Executed
-
-</td>
-<td align="center" width="20%">
-
-60% → 85%
-
-Regression Pass Rate
-
-</td>
-<td align="center" width="20%">
-
-10
-
-QA Engineers Mentored
-
-</td>
-<td align="center" width="20%">
-
-AWS
-
-Cloud Practitioner
-
-</td>
-</tr>
-</table>
-
-🛠️ What I Do
-
-Design maintainable automation frameworks for Web, API, Mobile, Tablet and enterprise applications
-
-Build reusable test architecture using Page Object Model and clean framework practices
-
-Develop API automation suites and execute large regression packs through CI/CD pipelines
-
-Validate backend data, business rules and asynchronous state changes using SQL
-
-Create AI-assisted engineering workflows with Claude Code skills and MCP-based tools
-
-Build GenAI applications using Python, LLMs, structured outputs and prompt engineering
-
-Improve release confidence through shift-left testing, code review and intelligent automation
-
-Mentor QA engineers and collaborate with developers, product owners and stakeholders
-
-🧪 Technology Stack
-
-💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript" alt="Languages"/>
-</p>
-
-Python Java C# JavaScript TypeScript SQL
-
-🧪 Testing & Automation
-
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-</p>
-
-Selenium WebDriver Playwright Cypress Appium Robot FrameworkREST Assured TestNG NUnit JUnit PyTest Cucumber SpecFlowAPI Testing Mobile Testing Regression Testing E2E Testing BDD
-
-🤖 AI / GenAI Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-0EA5E9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI_Agents-9333EA?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MCP-0F766E?style=flat-square"/>
-</p>
-
-Large Language Models Prompt Engineering Ollama OpenAI APIsPydantic Structured Outputs RAG LangChain LangGraphAI Agents MCP AI Workflow Automation LLM Testing
-
-⚡ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,dotnet" alt="Backend"/>
-</p>
-
-FastAPI REST APIs .NET Node.js JSON Microservices Async Programming
-
-🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases"/>
-</p>
-
-Microsoft SQL Server MySQL PostgreSQL Oracle MongoDB Redis
-
-☁️ Cloud, DevOps & Engineering Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode" alt="Cloud and DevOps"/>
-</p>
-
-AWS Docker Kubernetes Jenkins GitHub Actions BitbucketGit Linux Jira Allure Grafana CI/CD
-
-</td>
-</tr>
-</table>
-
-🤖 Featured AI Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🧪 AI Requirement & Test Case Generator
-
-Transforms natural-language requirements into structured and validated software test cases.
-
-Core capabilities
-
-Local LLM integration with Ollama
-
-Pydantic schema validation
-
-Structured JSON outputs
-
-Streamlit interface
-
-Functional, negative, boundary and security scenarios
-
-Error handling and export-ready architecture
-
-Tech
-
-Python Streamlit Ollama Llama 3.2 Pydantic
-
-<a href="https://github.com/Darshan-Uppala/ai-requirement-test-case-generator">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-🧠 Claude Code Engineering Skills
-
-AI-assisted engineering tools designed to improve developer and QA workflows.
-
-Solutions created
-
-init-ai-context for automated AI project setup
-
-PR review skill for faster code review
-
-Bug review skill using MCP and product documentation
-
-Skill-creator workflow with evaluation and iteration
-
-Architecture and coding-standard generation
-
-Focus
-
-Claude Code MCP Prompt Engineering AI Automation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-📚 Local RAG Assistant
-
-Fully local knowledge-base assistant that generates grounded answers fromretrieved business documents.
-
-Core capabilities
-
-Recursive document chunking with overlap
-
-Local embeddings using nomic-embed-text
-
-Persistent vector storage with ChromaDB
-
-MMR retrieval for relevant and diverse context
-
-Grounded responses using Llama 3.2
-
-Streamlit question-answering interface
-
-Retrieved source visibility
-
-Tech
-
-Python LangChain Ollama Llama 3.2 ChromaDB MMR Streamlit
-
-<a href="https://github.com/Darshan-Uppala/local-rag-streamlit">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-🤝 Multi-Agent AI Assistant
-
-Agentic workflow for research, planning, execution and review.
-
-Planned capabilities
-
-Specialized AI agents
-
-Tool calling
-
-Shared state and memory
-
-LangGraph orchestration
-
-Human-in-the-loop checkpoints
-
-MCP integrations
-
-Status: Planned
-
-</td>
-</tr>
-</table>
-
-🧭 GenAI / AI Engineering Roadmap
-
-<table>
-<tr>
-<td align="center">🧪<br/><b>QA Automation</b></td>
-<td align="center">→</td>
-<td align="center">🐍<br/><b>Python</b></td>
-<td align="center">→</td>
-<td align="center">🧠<br/><b>LLMs</b></td>
-<td align="center">→</td>
-<td align="center">📐<br/><b>Structured Outputs</b></td>
-<td align="center">→</td>
-<td align="center">📚<br/><b>RAG</b></td>
-<td align="center">→</td>
-<td align="center">🤖<br/><b>AI Agents</b></td>
-<td align="center">→</td>
-<td align="center">🚀<br/><b>Production AI</b></td>
-</tr>
-</table>
-
-📌 Current Priorities
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-Building
-
-AI Requirement & Test Case Generator
-
-Local RAG applications
-
-AI engineering APIs
-
-Agentic workflows
-
-</td>
-<td width="33%" valign="top">
-
-Learning
-
-LangChain
-
-LangGraph
-
-MCP
-
-Vector databases
-
-AI evaluation
-
-Guardrails
-
-</td>
-<td width="33%" valign="top">
-
-Engineering
-
-FastAPI
-
-Docker
-
-AWS deployment
-
-CI/CD for AI systems
-
-Observability
-
-Testing LLM applications
-
-</td>
-</tr>
-</table>
-
-🏅 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google-Introduction_to_Generative_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic-Claude_101-D97706?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-</p>
-
-<div align="center">
-
-🌐 Let's Connect
-
-<a href="https://www.linkedin.com/in/darshansaireddyuppala/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="58" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:darshansaireddy.uppala@outlook.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="58" alt="Email"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Darshan-Uppala">
-  <img src="https://skillicons.dev/icons?i=github" width="58" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-💡 Building reliable software through automation today — building intelligent systems with AI tomorrow.
-
-</div>
