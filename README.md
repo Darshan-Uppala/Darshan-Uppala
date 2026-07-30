@@ -285,25 +285,33 @@ Claude Code MCP Prompt Engineering AI Automation
 <tr>
 <td width="50%" valign="top">
 
-📚 PDF RAG Assistant
+📚 Local RAG Assistant
 
-Document intelligence application for grounded question answering.
+Fully local knowledge-base assistant that generates grounded answers fromretrieved business documents.
 
-Planned capabilities
+Core capabilities
 
-PDF ingestion
+Recursive document chunking with overlap
 
-Chunking and embeddings
+Local embeddings using nomic-embed-text
 
-Vector search
+Persistent vector storage with ChromaDB
 
-Citation-grounded responses
+MMR retrieval for relevant and diverse context
 
-FastAPI backend
+Grounded responses using Llama 3.2
 
-Evaluation and guardrails
+Streamlit question-answering interface
 
-Status: In Development
+Retrieved source visibility
+
+Tech
+
+Python LangChain Ollama Llama 3.2 ChromaDB MMR Streamlit
+
+<a href="https://github.com/Darshan-Uppala/local-rag-streamlit">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
@@ -362,7 +370,7 @@ Building
 
 AI Requirement & Test Case Generator
 
-RAG applications
+Local RAG applications
 
 AI engineering APIs
 
