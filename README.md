@@ -4,7 +4,7 @@ Readme · MD
 <div align="center">
 # Darshan Sai Reddy Uppala
  
-**Automation Test Engineer → GenAI / AI Engineer**
+**Automation Test Engineer transitioning into GenAI / AI Engineering**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshansaireddyuppala/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:darshansaireddy.uppala@outlook.com)
@@ -13,120 +13,57 @@ Readme · MD
 </div>
 ---
  
-## About Me
+## About
  
-Automation Test Engineer with **3+ years** building scalable frameworks for web, API, mobile, and enterprise applications — now transitioning into GenAI and AI Engineering.
+I'm an Automation Test Engineer with 3+ years of experience building test frameworks for web, API, mobile, and enterprise applications. I'm now applying that same rigor — structured thinking, edge-case awareness, and a bias toward reliability — to GenAI engineering: LLM applications, RAG pipelines, and AI agents built with Python.
  
-I build practical AI applications using Python, local and hosted LLMs, RAG pipelines, structured outputs, and AI agents with a focus on production-ready architecture.
+My QA background isn't a detour from AI engineering; it's a differentiator. I bring an evaluation-first mindset to systems that are otherwise hard to test.
  
----
+## Highlights
  
-## Key Numbers
+| | | | |
+|---|---|---|---|
+| **400+** API tests automated | **2,000+** regression tests executed | **60% → 85%** regression pass rate improvement | **10** QA engineers mentored |
  
-| 400+ | 2,000+ | 60% → 85% | 10 |
-|:---:|:---:|:---:|:---:|
-| API Tests Automated | Regression Tests Executed | Regression Pass Rate | QA Engineers Mentored |
+## Technical Skills
  
----
+**Languages:** Python · Java · C# · JavaScript · TypeScript · SQL
  
-## What I Build
+**Test Automation:** Selenium WebDriver · Playwright · Cypress · Appium · REST Assured · TestNG · PyTest · Cucumber/SpecFlow · BDD
  
-- **Automation Frameworks** — Web, API, mobile, and enterprise apps using Page Object Model and clean architecture
-- **GenAI Applications** — LLM-powered tools with structured outputs, RAG, and prompt engineering
-- **AI Agents** — Agentic workflows using LangGraph, tool calling, and MCP integrations
-- **CI/CD Pipelines** — Automated test execution integrated with Jenkins and GitHub Actions
-- **AI-Assisted QA Workflows** — Claude Code skills and MCP-based tools for developer productivity
----
+**GenAI / AI Engineering:** LLMs · Prompt Engineering · RAG · LangChain · LangGraph · AI Agents · MCP · Structured Outputs (Pydantic) · Ollama
+ 
+**Backend:** FastAPI · REST APIs · .NET · Node.js · Async Programming
+ 
+**Databases:** SQL Server · MySQL · PostgreSQL · Oracle · MongoDB · Redis
+ 
+**Cloud & DevOps:** AWS · Docker · Kubernetes · Git · GitHub Actions · Jenkins · CI/CD
  
 ## Featured Projects
  
-### 🧪 [AI Requirement & Test Case Generator](https://github.com/Darshan-Uppala/ai-requirement-test-case-generator)
-Transforms natural-language requirements into validated, structured test cases.
+**[AI Requirement & Test Case Generator](https://github.com/Darshan-Uppala/ai-requirement-test-case-generator)**
+Converts natural-language requirements into structured, validated test cases (functional, negative, boundary, security) using a local LLM with Pydantic-enforced JSON output.
+`Python` `Ollama` `Llama 3.2` `Pydantic` `Streamlit`
  
-- Local LLM inference via **Ollama (Llama 3.2)**
-- **Pydantic** schema validation with structured JSON outputs
-- Covers functional, negative, boundary, and security scenarios
-- **Streamlit** interface with export-ready architecture
-`Python` `Streamlit` `Ollama` `Llama 3.2` `Pydantic`
- 
----
- 
-### 📚 [Local RAG Assistant](https://github.com/Darshan-Uppala/local-rag-streamlit)
-Fully local knowledge-base assistant that answers questions grounded in business documents.
- 
-- Recursive document chunking with overlap
-- Local embeddings via **nomic-embed-text**
-- Persistent vector storage with **ChromaDB**
-- MMR retrieval for relevant, diverse context
-- Retrieved source visibility in the UI
+**[Local RAG Assistant](https://github.com/Darshan-Uppala/local-rag-streamlit)**
+A fully local, grounded question-answering system over business documents — recursive chunking, local embeddings, ChromaDB vector store, and MMR retrieval for diverse context.
 `Python` `LangChain` `Ollama` `ChromaDB` `Streamlit`
  
----
- 
-### 🧠 Claude Code Engineering Skills
-AI-assisted engineering tools for developer and QA workflows.
- 
-- `init-ai-context` for automated AI project setup
-- PR review skill for faster code reviews
-- Bug review skill using MCP and product documentation
-- Skill-creator workflow with evaluation and iteration
+**Claude Code Engineering Skills**
+A set of internal AI-assisted developer tools: automated project scaffolding, PR review, and a skill-creation workflow with built-in evaluation and iteration.
 `Claude Code` `MCP` `Prompt Engineering`
  
----
- 
-### 🤝 Multi-Agent AI Assistant *(Planned)*
-Agentic workflow for research, planning, execution, and review using LangGraph orchestration, shared state, tool calling, and human-in-the-loop checkpoints.
- 
----
- 
-## Tech Stack
- 
-**Languages**
-`Python` `Java` `C#` `JavaScript` `TypeScript` `SQL`
- 
-**Testing & Automation**
-`Selenium` `Playwright` `Cypress` `Appium` `Robot Framework` `REST Assured` `TestNG` `NUnit` `PyTest` `Cucumber` `SpecFlow` `Postman`
- 
-**AI / GenAI**
-`LLMs` `Prompt Engineering` `Ollama` `OpenAI APIs` `LangChain` `LangGraph` `RAG` `AI Agents` `MCP` `Pydantic`
- 
-**Backend & Databases**
-`FastAPI` `Node.js` `.NET` `SQL Server` `MySQL` `PostgreSQL` `MongoDB` `Redis`
- 
-**Cloud & DevOps**
-`AWS` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Git` `Linux` `Jira`
- 
----
+**Multi-Agent AI Assistant** *(in progress)*
+An agentic workflow for research, planning, execution, and review — specialized agents, tool calling, shared state, and human-in-the-loop checkpoints via LangGraph.
  
 ## Certifications
  
-- 🟠 **AWS Certified Cloud Practitioner**
-- 🔵 **Google — Introduction to Generative AI**
-- 🟤 **Anthropic — Claude 101**
-- 🔵 **IBM — AI Fundamentals**
----
- 
-## Current Focus
- 
-| Building | Learning | Engineering |
-|---|---|---|
-| AI test case generator | LangChain & LangGraph | FastAPI & Docker |
-| Local RAG apps | MCP & vector databases | AWS deployment |
-| Agentic workflows | AI evaluation & guardrails | CI/CD for AI systems |
- 
----
- 
-## Roadmap
- 
-```
-QA Automation → Python → LLMs → Structured Outputs → RAG → AI Agents → Production AI
-```
+AWS Certified Cloud Practitioner · ISTQB Certified Tester – AI Testing (CT-AI) · Anthropic Claude 101 · IBM AI Fundamentals · Google Introduction to Generative AI
  
 ---
  
 <div align="center">
-*Building reliable software through automation today — building intelligent systems with AI tomorrow.*
+[LinkedIn](https://www.linkedin.com/in/darshansaireddyuppala/) · [Email](mailto:darshansaireddy.uppala@outlook.com) · [GitHub](https://github.com/Darshan-Uppala)
  
 </div>
  
-
