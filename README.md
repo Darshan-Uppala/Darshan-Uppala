@@ -17,7 +17,7 @@
 
 ### 🧭 About
 
-I'm an Automation Test Engineer with 3+ years of experience building test frameworks for web, API, mobile, and enterprise applications. I'm now applying that same rigor — structured thinking, edge-case awareness, and a bias toward reliability — to GenAI engineering: LLM applications, RAG pipelines, and AI agents built with Python.
+I'm an Automation Test Engineer with 3+ years of experience building test frameworks for web, API, mobile, and enterprise applications. I'm now applying that same rigor - structured thinking, edge-case awareness, and a bias toward reliability - to GenAI engineering: LLM applications, RAG pipelines, and AI agents built with Python.
 
 My QA background isn't a detour from AI engineering; it's a differentiator. I bring an evaluation-first mindset to systems that are otherwise hard to test.
 
@@ -59,7 +59,7 @@ Converts natural-language requirements into structured, validated test cases (fu
 `Python` `Ollama` `Llama 3.2` `Pydantic` `Streamlit`
 
 **[Local RAG Assistant](https://github.com/Darshan-Uppala/local-rag-streamlit)**
-A fully local, grounded question-answering system over business documents — recursive chunking, local embeddings, ChromaDB vector store, and MMR retrieval for diverse context.
+A fully local, grounded question-answering system over business documents - recursive chunking, local embeddings, ChromaDB vector store, and MMR retrieval for diverse context.
 `Python` `LangChain` `Ollama` `ChromaDB` `Streamlit`
 
 **Claude Code Engineering Skills**
@@ -67,7 +67,7 @@ A set of internal AI-assisted developer tools: automated project scaffolding, PR
 `Claude Code` `MCP` `Prompt Engineering`
 
 **Multi-Agent AI Assistant** *(in progress)*
-An agentic workflow for research, planning, execution, and review — specialized agents, tool calling, shared state, and human-in-the-loop checkpoints via LangGraph.
+An agentic workflow for research, planning, execution, and review - specialized agents, tool calling, shared state, and human-in-the-loop checkpoints via LangGraph.
 
 ### 🏅 Certifications
 
