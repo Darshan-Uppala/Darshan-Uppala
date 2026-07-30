@@ -54,7 +54,7 @@ My QA background isn't a detour from AI engineering; it's a differentiator. I br
 
 ### 🚀 Featured Projects
 
-**[AI Requirement & Test Case Generator](https://github.com/Darshan-Uppala/ai-requirement-test-case-generator)**
+**[AI Requirement & Test Case Generator](https://github.com/Darshan-Uppala/ai-requirement-test-gen)**
 Converts natural-language requirements into structured, validated test cases (functional, negative, boundary, security) using a local LLM with Pydantic-enforced JSON output.
 `Python` `Ollama` `Llama 3.2` `Pydantic` `Streamlit`
 
@@ -71,7 +71,7 @@ An agentic workflow for research, planning, execution, and review — specialize
 
 ### 🏅 Certifications
 
-`AWS Certified Cloud Practitioner` `ISTQB CT-AI` `Anthropic Claude 101` `IBM AI Fundamentals` `Google Intro to Generative AI`
+`AWS Certified Cloud Practitioner` `Anthropic Claude 101` `IBM AI Fundamentals` `Google Intro to Generative AI`
 
 ### 📈 GitHub Stats
 
