@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Darshan Sai Reddy Uppala
+👋 Hi, I'm Darshan Sai Reddy Uppala
 
-### 🚀 Automation Test Engineer → Transitioning into GenAI / AI Engineering
+🚀 Automation Test Engineer → Transitioning into GenAI / AI Engineering
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00E7FF&center=true&vCenter=true&width=950&lines=Building+Reliable+Automation+Frameworks;Creating+Production-Ready+GenAI+Applications;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;QA+Automation+%2B+Artificial+Intelligence"
-  alt="Typing introduction"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00E7FF&center=true&vCenter=true&width=950&lines=Building+Reliable+Automation+Frameworks;Creating+Production-Ready+GenAI+Applications;Python+%7C+LLMs+%7C+RAG+%7C+AI+Agents;QA+Automation+%2B+Artificial+Intelligence"
+alt="Typing introduction"
 />
 
 <br/>
@@ -23,54 +23,53 @@
 
 </div>
 
----
-
 <table>
 <tr>
 <td width="32%" valign="top">
 
 <div align="center">
 
-## 👨‍💻 Profile
+👨‍💻 Profile
 
 <img
-  src="https://github.com/Darshan-Uppala.png"
-  width="180"
-  alt="Darshan Sai Reddy Uppala"
+src="https://github.com/Darshan-Uppala.png"
+width="180"
+alt="Darshan Sai Reddy Uppala"
 />
 
-### Darshan Sai Reddy Uppala
+Darshan Sai Reddy Uppala
 
-**Automation Test Engineer**
+Automation Test Engineer
 
 <img src="https://img.shields.io/badge/Transitioning_to-GenAI_%2F_AI_Engineering-7C3AED?style=for-the-badge" alt="Transitioning to GenAI"/>
 
 </div>
 
----
+🌟 About Me
 
-## 🌟 About Me
+Automation Test Engineer with 3+ years of experience building scalable automation frameworks for web, API, mobile, tablet and enterprise applications.
 
-Automation Test Engineer with **3+ years of experience** building scalable automation frameworks for web, API, mobile, tablet and enterprise applications.
+I am transitioning into GenAI / AI Engineering by building practical AI applications with Python, local and hosted LLMs, structured outputs, RAG, AI agents and production-oriented backend technologies.
 
-I am transitioning into **GenAI / AI Engineering** by building practical AI applications with Python, local and hosted LLMs, structured outputs, RAG, AI agents and production-oriented backend technologies.
+⚡ Quick Profile
 
----
+🧪 Automation framework design
 
-## ⚡ Quick Profile
+🌐 Web, API and mobile testing
 
-- 🧪 Automation framework design
-- 🌐 Web, API and mobile testing
-- 🤖 AI-assisted development
-- 🧠 LLM application development
-- 🔄 CI/CD integration
-- ☁️ AWS Certified Cloud Practitioner
-- 👥 QA mentoring and collaboration
-- 📈 Continuous learning and delivery
+🤖 AI-assisted development
 
----
+🧠 LLM application development
 
-## 🌐 Connect With Me
+🔄 CI/CD integration
+
+☁️ AWS Certified Cloud Practitioner
+
+👥 QA mentoring and collaboration
+
+📈 Continuous learning and delivery
+
+🌐 Connect With Me
 
 <div align="center">
 
@@ -88,92 +87,89 @@ I am transitioning into **GenAI / AI Engineering** by building practical AI appl
 
 </div>
 
----
+🎯 Current Mission
 
-## 🎯 Current Mission
-
-```text
 Quality Engineering
         +
 Generative AI
         ↓
 Reliable Intelligent Systems
-```
 
 </td>
 
 <td width="68%" valign="top">
 
-## 🚀 Professional Highlights
+🚀 Professional Highlights
 
 <table>
 <tr>
 <td align="center" width="20%">
 
-### 400+
+400+
 
-**API Tests Automated**
-
-</td>
-<td align="center" width="20%">
-
-### 2,000+
-
-**Regression Tests Executed**
+API Tests Automated
 
 </td>
 <td align="center" width="20%">
 
-### 60% → 85%
+2,000+
 
-**Regression Pass Rate**
-
-</td>
-<td align="center" width="20%">
-
-### 10
-
-**QA Engineers Mentored**
+Regression Tests Executed
 
 </td>
 <td align="center" width="20%">
 
-### AWS
+60% → 85%
 
-**Cloud Practitioner**
+Regression Pass Rate
+
+</td>
+<td align="center" width="20%">
+
+10
+
+QA Engineers Mentored
+
+</td>
+<td align="center" width="20%">
+
+AWS
+
+Cloud Practitioner
 
 </td>
 </tr>
 </table>
 
----
+🛠️ What I Do
 
-## 🛠️ What I Do
+Design maintainable automation frameworks for Web, API, Mobile, Tablet and enterprise applications
 
-- Design maintainable automation frameworks for Web, API, Mobile, Tablet and enterprise applications
-- Build reusable test architecture using Page Object Model and clean framework practices
-- Develop API automation suites and execute large regression packs through CI/CD pipelines
-- Validate backend data, business rules and asynchronous state changes using SQL
-- Create AI-assisted engineering workflows with Claude Code skills and MCP-based tools
-- Build GenAI applications using Python, LLMs, structured outputs and prompt engineering
-- Improve release confidence through shift-left testing, code review and intelligent automation
-- Mentor QA engineers and collaborate with developers, product owners and stakeholders
+Build reusable test architecture using Page Object Model and clean framework practices
 
----
+Develop API automation suites and execute large regression packs through CI/CD pipelines
 
-## 🧪 Technology Stack
+Validate backend data, business rules and asynchronous state changes using SQL
 
-### 💻 Languages
+Create AI-assisted engineering workflows with Claude Code skills and MCP-based tools
+
+Build GenAI applications using Python, LLMs, structured outputs and prompt engineering
+
+Improve release confidence through shift-left testing, code review and intelligent automation
+
+Mentor QA engineers and collaborate with developers, product owners and stakeholders
+
+🧪 Technology Stack
+
+💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript" alt="Languages"/>
 </p>
 
-`Python` `Java` `C#` `JavaScript` `TypeScript` `SQL`
+Python Java C# JavaScript TypeScript SQL
 
----
-
-### 🧪 Testing & Automation
+🧪 Testing & Automation
 
 <p>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
@@ -183,13 +179,9 @@ Reliable Intelligent Systems
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
-`Selenium WebDriver` `Playwright` `Cypress` `Appium` `Robot Framework`  
-`REST Assured` `TestNG` `NUnit` `JUnit` `PyTest` `Cucumber` `SpecFlow`  
-`API Testing` `Mobile Testing` `Regression Testing` `E2E Testing` `BDD`
+Selenium WebDriver Playwright Cypress Appium Robot FrameworkREST Assured TestNG NUnit JUnit PyTest Cucumber SpecFlowAPI Testing Mobile Testing Regression Testing E2E Testing BDD
 
----
-
-### 🤖 AI / GenAI Engineering
+🤖 AI / GenAI Engineering
 
 <p>
   <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square"/>
@@ -202,69 +194,63 @@ Reliable Intelligent Systems
   <img src="https://img.shields.io/badge/MCP-0F766E?style=flat-square"/>
 </p>
 
-`Large Language Models` `Prompt Engineering` `Ollama` `OpenAI APIs`  
-`Pydantic` `Structured Outputs` `RAG` `LangChain` `LangGraph`  
-`AI Agents` `MCP` `AI Workflow Automation` `LLM Testing`
+Large Language Models Prompt Engineering Ollama OpenAI APIsPydantic Structured Outputs RAG LangChain LangGraphAI Agents MCP AI Workflow Automation LLM Testing
 
----
-
-### ⚡ Backend & APIs
+⚡ Backend & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,dotnet" alt="Backend"/>
 </p>
 
-`FastAPI` `REST APIs` `.NET` `Node.js` `JSON` `Microservices` `Async Programming`
+FastAPI REST APIs .NET Node.js JSON Microservices Async Programming
 
----
-
-### 🗄️ Databases
+🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Databases"/>
 </p>
 
-`Microsoft SQL Server` `MySQL` `PostgreSQL` `Oracle` `MongoDB` `Redis`
+Microsoft SQL Server MySQL PostgreSQL Oracle MongoDB Redis
 
----
-
-### ☁️ Cloud, DevOps & Engineering Tools
+☁️ Cloud, DevOps & Engineering Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,linux,vscode" alt="Cloud and DevOps"/>
 </p>
 
-`AWS` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Bitbucket`  
-`Git` `Linux` `Jira` `Allure` `Grafana` `CI/CD`
+AWS Docker Kubernetes Jenkins GitHub Actions BitbucketGit Linux Jira Allure Grafana CI/CD
 
 </td>
 </tr>
 </table>
 
----
-
-## 🤖 Featured AI Projects
+🤖 Featured AI Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 AI Requirement & Test Case Generator
+🧪 AI Requirement & Test Case Generator
 
 Transforms natural-language requirements into structured and validated software test cases.
 
-**Core capabilities**
+Core capabilities
 
-- Local LLM integration with Ollama
-- Pydantic schema validation
-- Structured JSON outputs
-- Streamlit interface
-- Functional, negative, boundary and security scenarios
-- Error handling and export-ready architecture
+Local LLM integration with Ollama
 
-**Tech**
+Pydantic schema validation
 
-`Python` `Streamlit` `Ollama` `Llama 3.2` `Pydantic`
+Structured JSON outputs
+
+Streamlit interface
+
+Functional, negative, boundary and security scenarios
+
+Error handling and export-ready architecture
+
+Tech
+
+Python Streamlit Ollama Llama 3.2 Pydantic
 
 <a href="https://github.com/Darshan-Uppala/ai-requirement-test-case-generator">
   <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
@@ -273,21 +259,25 @@ Transforms natural-language requirements into structured and validated software 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Claude Code Engineering Skills
+🧠 Claude Code Engineering Skills
 
 AI-assisted engineering tools designed to improve developer and QA workflows.
 
-**Solutions created**
+Solutions created
 
-- `init-ai-context` for automated AI project setup
-- PR review skill for faster code review
-- Bug review skill using MCP and product documentation
-- Skill-creator workflow with evaluation and iteration
-- Architecture and coding-standard generation
+init-ai-context for automated AI project setup
 
-**Focus**
+PR review skill for faster code review
 
-`Claude Code` `MCP` `Prompt Engineering` `AI Automation`
+Bug review skill using MCP and product documentation
+
+Skill-creator workflow with evaluation and iteration
+
+Architecture and coding-standard generation
+
+Focus
+
+Claude Code MCP Prompt Engineering AI Automation
 
 </td>
 </tr>
@@ -295,46 +285,62 @@ AI-assisted engineering tools designed to improve developer and QA workflows.
 <tr>
 <td width="50%" valign="top">
 
-### 📚 PDF RAG Assistant
+📚 Local RAG Assistant
 
-Document intelligence application for grounded question answering.
+Fully local knowledge-base assistant that generates grounded answers fromretrieved business documents.
 
-**Planned capabilities**
+Core capabilities
 
-- PDF ingestion
-- Chunking and embeddings
-- Vector search
-- Citation-grounded responses
-- FastAPI backend
-- Evaluation and guardrails
+Recursive document chunking with overlap
 
-**Status:** In Development
+Local embeddings using nomic-embed-text
+
+Persistent vector storage with ChromaDB
+
+MMR retrieval for relevant and diverse context
+
+Grounded responses using Llama 3.2
+
+Streamlit question-answering interface
+
+Retrieved source visibility
+
+Tech
+
+Python LangChain Ollama Llama 3.2 ChromaDB MMR Streamlit
+
+<a href="https://github.com/Darshan-Uppala/local-rag-streamlit">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤝 Multi-Agent AI Assistant
+🤝 Multi-Agent AI Assistant
 
 Agentic workflow for research, planning, execution and review.
 
-**Planned capabilities**
+Planned capabilities
 
-- Specialized AI agents
-- Tool calling
-- Shared state and memory
-- LangGraph orchestration
-- Human-in-the-loop checkpoints
-- MCP integrations
+Specialized AI agents
 
-**Status:** Planned
+Tool calling
+
+Shared state and memory
+
+LangGraph orchestration
+
+Human-in-the-loop checkpoints
+
+MCP integrations
+
+Status: Planned
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧭 GenAI / AI Engineering Roadmap
+🧭 GenAI / AI Engineering Roadmap
 
 <table>
 <tr>
@@ -354,52 +360,61 @@ Agentic workflow for research, planning, execution and review.
 </tr>
 </table>
 
----
-
-## 📌 Current Priorities
+📌 Current Priorities
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Building
+Building
 
-- AI Requirement & Test Case Generator
-- RAG applications
-- AI engineering APIs
-- Agentic workflows
+AI Requirement & Test Case Generator
 
-</td>
-<td width="33%" valign="top">
+Local RAG applications
 
-### Learning
+AI engineering APIs
 
-- LangChain
-- LangGraph
-- MCP
-- Vector databases
-- AI evaluation
-- Guardrails
+Agentic workflows
 
 </td>
 <td width="33%" valign="top">
 
-### Engineering
+Learning
 
-- FastAPI
-- Docker
-- AWS deployment
-- CI/CD for AI systems
-- Observability
-- Testing LLM applications
+LangChain
+
+LangGraph
+
+MCP
+
+Vector databases
+
+AI evaluation
+
+Guardrails
+
+</td>
+<td width="33%" valign="top">
+
+Engineering
+
+FastAPI
+
+Docker
+
+AWS deployment
+
+CI/CD for AI systems
+
+Observability
+
+Testing LLM applications
 
 </td>
 </tr>
 </table>
 
----
-
-## 🏅 Certifications
+🏅 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -408,11 +423,9 @@ Agentic workflow for research, planning, execution and review.
   <img src="https://img.shields.io/badge/IBM-AI_Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 </p>
 
----
-
 <div align="center">
 
-## 🌐 Let's Connect
+🌐 Let's Connect
 
 <a href="https://www.linkedin.com/in/darshansaireddyuppala/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="58" alt="LinkedIn"/>
@@ -428,6 +441,6 @@ Agentic workflow for research, planning, execution and review.
 
 <br/><br/>
 
-### 💡 Building reliable software through automation today — building intelligent systems with AI tomorrow.
+💡 Building reliable software through automation today — building intelligent systems with AI tomorrow.
 
 </div>
